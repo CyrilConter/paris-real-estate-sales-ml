@@ -1,3 +1,4 @@
+![](assets/paris.jpg)
 # Paris - Real estates price prediction
 
 ## Project
@@ -11,3 +12,8 @@ The project is divided in different steps:
 https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/
 
 ## Lessons learned
+
+
+
+
+<u>Credits:</u> Image by <a href="https://pixabay.com/fr/users/edmondlafoto-7913128/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">edmondlafoto</a> from <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">Pixabay</a>
