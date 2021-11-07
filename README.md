@@ -9,11 +9,11 @@ The project is divided in different steps:
 * [Step 2](02_BuildModel.ipynb): Analyze data and build a prediction model.
 * Step 3: Create an API or web app to infer the model produced.
 
-https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/
-
-## Lessons learned
+<!-- ## Lessons learned -->
 
 
 
+## Credits
+Image by <a href="https://pixabay.com/fr/users/edmondlafoto-7913128/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">edmondlafoto</a> from <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">Pixabay</a>
 
-<u>Credits:</u> Image by <a href="https://pixabay.com/fr/users/edmondlafoto-7913128/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">edmondlafoto</a> from <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3296269">Pixabay</a>
+Data used from [Open platform for French public data](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
