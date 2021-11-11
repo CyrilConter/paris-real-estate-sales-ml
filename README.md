@@ -4,10 +4,9 @@
 ## Project
 Build a price prediction model focused a real estates sold at [Paris](https://www.paris.fr/) (France), using open data.
 
-The project is divided in different steps:
-* [Step 1](01_CollectData.ipynb): Build a dataset of real estates sold at Paris.
-* [Step 2](02_BuildModel.ipynb): Analyze data and build a prediction model.
-* Step 3: Create an API or web app to infer the model produced.
+The project is divided in two sub-projects:
+* [Step 1](01_BuildModel): Build a price prediction model for real estates sold at Paris.
+* [Step 2](): Create an API or web app to infer the model produced.
 
 <!-- ## Lessons learned -->
 
