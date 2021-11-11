@@ -4,8 +4,8 @@ This folder is focused on building a price prediction model based on data provid
 
 ## Project
 The project is divided in two different steps:
-* [Step 1](01_CollectData.ipynb): Build a dataset of real estates sold at Paris.
-* [Step 2](02_BuildModel.ipynb): Analyze data and build a prediction model.
+* [Step 1](notebooks/01_CollectData.ipynb): Build a dataset of real estates sold at Paris.
+* [Step 2](notebooks/02_BuildModel.ipynb): Analyze data and build a prediction model.
 
 ## Getting started
 ### Requirements
